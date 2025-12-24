@@ -1,0 +1,1 @@
+export const DB_NAME = "full_stack_practice_db";
